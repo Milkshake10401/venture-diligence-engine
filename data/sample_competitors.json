@@ -1,0 +1,10 @@
+{
+  "direct": [
+    "Company A",
+    "Company B"
+  ],
+  "adjacent": [
+    "Company C",
+    "Company D"
+  ]
+}
